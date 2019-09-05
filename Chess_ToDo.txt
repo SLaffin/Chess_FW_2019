@@ -1,0 +1,22 @@
+Chess Project To-do
+- Board and piece / object creation
+	- UML diagrams txt
+- Advanced chess details
+	- piece movements
+	- en passant
+	- castling
+	- promotion
+	- checkmate
+	- stalemate
+- Main Program loop
+	- dump out txt file
+
+-------Later Date---------
+- AI
+	- alpha beta pruning
+	- board eval function
+- GUI
+- Write-up
+
+
+
