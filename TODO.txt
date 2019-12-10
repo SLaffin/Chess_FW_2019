@@ -1,0 +1,6 @@
+TODO
+- minimax
+- eval function
+- piece movements
+- UI
+- testing
